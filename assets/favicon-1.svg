@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 720" style="enable-background:new 0 0 720 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#F7B5B5;}
+	.st2{fill:#557049;}
+	.st3{fill:#B24242;}
+	.st4{fill:#809FBC;}
+	.st5{fill:#F9D05D;}
+	.st6{display:none;}
+	.st7{display:inline;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:#F7B5B5;stroke:#000000;stroke-width:6.8677;stroke-miterlimit:10;}
+	.st10{fill:#B24242;stroke:#000000;stroke-width:6.8677;stroke-miterlimit:10;}
+	.st11{fill:#809FBC;stroke:#000000;stroke-width:6.8677;stroke-miterlimit:10;}
+	.st12{fill:#557049;stroke:#000000;stroke-width:6.8677;stroke-miterlimit:10;}
+	.st13{fill:#F9D05D;stroke:#000000;stroke-width:6.8677;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2">
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="371.17" cy="362.27" r="267"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<rect x="58.67" y="95.77" class="st1" width="625" height="106.6"/>
+			<rect x="58.67" y="202.97" class="st2" width="625" height="106.6"/>
+			<rect x="58.67" y="309.57" class="st3" width="625" height="106.6"/>
+			<rect x="58.67" y="416.17" class="st4" width="625" height="106.6"/>
+			<rect x="58.67" y="523.37" class="st5" width="625" height="106.6"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1" class="st6">
+	<g class="st7">
+		<path class="st8" d="M336.03,284.9l-102.66,0.31c0-0.1,0-0.21,0-0.31c0-56.32,46.34-102.67,102.67-102.67
+			S438.7,228.58,438.7,284.9H336.03z"/>
+		<g>
+			<polygon class="st8" points="388.33,284.9 438.7,284.75 438.7,570.3 			"/>
+			<polygon class="st8" points="438.7,570.14 388.33,570.14 388.33,284.75 			"/>
+		</g>
+		<circle class="st8" cx="284.1" cy="283.9" r="31.18"/>
+		<circle class="st8" cx="294.25" cy="463.92" r="106.37"/>
+	</g>
+</g>
+<g id="Layer_3" class="st6">
+	<g class="st7">
+		<path class="st9" d="M371.33,288.89l-84.67,0.26c0-0.09,0-0.17,0-0.26c0-46.45,38.22-84.67,84.67-84.67S456,242.44,456,288.89
+			H371.33z"/>
+		<g>
+			<polygon class="st10" points="414.46,288.89 456,288.76 456,524.26 			"/>
+			<polygon class="st11" points="456,524.14 414.46,524.14 414.46,288.76 			"/>
+		</g>
+		<circle class="st12" cx="325.15" cy="288.73" r="25.71"/>
+		<circle class="st13" cx="336.87" cy="436.53" r="87.73"/>
+	</g>
+</g>
+</svg>

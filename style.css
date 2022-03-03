@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+
+ /* background */
+
+body {
+    background-color: rgb(99, 84, 66);
+    background-image: url(assets/background-03.svg);
+    background-size: "150%, 150%";
+    background-position: center;
+}
+
+/* main structure */
+
+.front-card{
+ width:1008px;
+ height:576px;
+  margin: 3em auto;
+  overflow: hidden;
+  box-shadow: 2px 5px 15px 0px #17161694;
+  background-image: url('assets/card_front_asset_Artboard_1.svg');
+  background-color:rgb(214,192,144);
+  border-radius: 25px;
+}
+
+.logo{
+  width: 250px;
+  margin: auto;
+  margin-left:377px;
+  margin-top:160px;
+  top: 43vw;
+}
+
+.back-card{
+  width:1008px;
+  height:576px;
+   margin: 3em auto;
+   overflow: hidden;
+   box-shadow: 2px 5px 15px 0px #17161694;
+   background-image: url('assets/card_back_asset-02.svg');
+   background-color:rgb(214,192,144);
+   border-radius: 25px;
+}
+
+h1{
+  font-size: 48px;
+  font-family: 'Kaushan Script', cursive;
+  position: relative;
+  top: 160px;
+  left: 460px;
+}
+
+h2{
+  font-size: 32px;
+  font-family: 'Kaushan Script', cursive;
+  position: relative;
+  top: 172.5px;
+  left: 460px;
+}
+
+.logo2{
+  width: 250px;
+  margin: auto;
+  margin-left:100px;
+  margin-top:30px;
+  top: 43vw;
+}
+
+.email{
+  width: 60px;
+  margin: auto;
+  margin-left:464px;
+  margin-top:-100px;
+}
+
+.website{
+  width: 50px;
+  margin: auto;
+  margin-left:544px;
+  margin-top:-46px;
+}
+
+.instagram{
+  width: 48px;
+  margin: auto;
+  margin-left:614px;
+  margin-top:-48px;
+}
+
+/* hover effects */
+
+svg:hover{
+  fill:rgb(207, 91, 149);
+}
+
+@media screen and (max-width: 800px) {
+  .front-card {width: 378px; height: 216px; border-radius: 15px;}
+  .back-card {width: 378px; height: 216px; border-radius: 15px;}
+  .logo {width: 88px; margin: auto; margin-left:141px; margin-top:68px}
+  .logo2 {width: 88px; margin: auto; margin-left:40px; margin-top:10px; top: 43vw}
+  h1 {font-size: 22px; font-family: 'Kaushan Script', cursive;  position: relative; top: 60px; left: 160px;}
+  h2 {font-size: 16px; font-family: 'Kaushan Script', cursive;  position: relative; top: 62px; left: 160px;}
+  .email{width: 30px; margin: auto; margin-left:161px; margin-top:-25px;}
+  .website{width: 30px; margin: auto; margin-left:215px; margin-top:-26px;}
+  .instagram{width: 26px; margin: auto; margin-left:269px; margin-top:-28px;}
+}
